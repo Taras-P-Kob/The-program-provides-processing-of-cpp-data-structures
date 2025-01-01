@@ -105,15 +105,15 @@ Each text editor is defined by the following attributes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/roman-zvir/Text_editors_structure.git
+   git clone https://github.com/roman-zvir/text-editors-structure.git
    ```
 2. Compile the program:
    ```bash
-   g++ -o data_processor main.cpp
+   g++ -o text-editors main.cpp
    ```
 3. Run the executable:
    ```bash
-   ./data_processor
+   ./text-editors
    ```
 
 ---
